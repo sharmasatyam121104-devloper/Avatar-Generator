@@ -1,12 +1,54 @@
-# React + Vite
+🎭 Avatar Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Avatar Generator built with React + Vite.
+This project is part of my 25 Days Coding Challenge 🚀 (Day 2).
 
-Currently, two official plugins are available:
+📌 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Avatar Generator allows users to instantly create random avatars.
+It’s lightweight, responsive, and super useful for developers who need quick avatars for testing or portfolio projects.
 
-## Expanding the ESLint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👤 Male/Female avatar options
+
+🎲 Random avatar generation
+
+📥 Direct download option
+
+📋 Copy link option
+
+💻 Clean & responsive UI
+
+🔧 Tech Stack
+
+⚛️ React
+
+⚡ Vite
+
+🎨 CSS
+
+💡 How it helps developers
+
+Quickly generate avatars for dummy data/test users
+
+Makes portfolio projects and UI designs look realistic
+
+Great for practicing React components, props, and state management
+
+Useful for API integration practice
+
+🚀 Getting Started
+1️⃣ Clone the repo
+git clone https://github.com/sharmasatyam121104-devloper/Avatar-Generator.git
+
+2️⃣ Install dependencies
+cd Avatar-Generator
+npm install
+
+3️⃣ Run the app
+npm run dev
+
+
+Now open http://localhost:5173
+ to view it in your browser 🎉
